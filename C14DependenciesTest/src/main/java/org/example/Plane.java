@@ -1,6 +1,7 @@
 package org.example;
 
 public class Plane {
-    private String asa;
+    private String motor;
+
     
 }
