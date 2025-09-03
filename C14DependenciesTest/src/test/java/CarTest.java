@@ -48,5 +48,4 @@ public class CarTest {
         car.turnOnSeatbeltsWarning(true,false);
         assertTrue(car.isSeatbeltsWarning());
     }
-
 }
