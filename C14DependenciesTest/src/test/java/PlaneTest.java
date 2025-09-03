@@ -36,7 +36,7 @@ public class PlaneTest {
     @Test
     public void turnOnStallWarningTest(){
         Plane plane = new Plane();
-        plane.turnOnStallWarning(220.0f);
+        plane.turnOnStallWarning(140.0f);
         assertTrue(plane.isStallWarning());
     }
 
